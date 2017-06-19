@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android-Rapid-Development-Of-Library/app/libs/baidumapapi_radar_v3_7_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android-Rapid-Development-Of-Library/app/libs/baidumapapi_util_v3_7_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android-Rapid-Development-Of-Library/app/libs/json_simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android-Rapid-Development-Of-Library/app/libs/locSDK_6.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android-Rapid-Development-Of-Library/app/libs/baidumapapi_map_v3_7_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android-Rapid-Development-Of-Library/app/libs/baidumapapi_cloud_v3_7_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android-Rapid-Development-Of-Library/app/libs/baidumapapi_search_v3_7_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android-Rapid-Development-Of-Library/app/libs/baidumapapi_base_v3_7_3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

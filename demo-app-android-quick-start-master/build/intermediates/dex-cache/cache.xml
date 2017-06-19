@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="I:\studio workspace\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="I:\studio workspace\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d28cd2ea684340f2c134de9a38282600a77e1b1d.jar" />
+    </item>
+    <item
+        jar="I:\studio workspace\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\demo-app-android-quick-start-master\IMKit\unspecified\jars\libs\Rong_IMKit_v2_4_11.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9b38883a862d16527c6a671389cb1fa3b68a52b6">
+        <dex dex="I:\studio workspace\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\Rong_IMKit_v2_4_11-6788c9abec9b3bf0adb1907f3c5f47139e858a80.jar" />
+    </item>
+    <item
+        jar="I:\studio workspace\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\demo-app-android-quick-start-master\IMKit\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cbecf791eb062983157a41c81691db0a8f9082d9">
+        <dex dex="I:\studio workspace\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\classes-49a1aa0f7fc4151437725fa8ffbaf1510955cae1.jar" />
+    </item>
+    <item
+        jar="I:\studio workspace\demo-app-android-quick-start-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="I:\studio workspace\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\classes-d7810314a4c2a965f96840c5a923092177f0309b.jar" />
+    </item>
+    <item
+        jar="G:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="I:\studio workspace\demo-app-android-quick-start-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-c4e3967d98d7299bf001fb66a8c04a3625d18b15.jar" />
+    </item>
+
+</items>

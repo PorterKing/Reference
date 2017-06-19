@@ -1,0 +1,7 @@
+#Thu May 04 09:55:38 CST 2017
+base.0=I\:\\studio workspace\\social_sdk_example_as\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7fe2089ed5c8efab94a9d41c32e275d642a04f6a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=I\:\\studio workspace\\social_sdk_example_as\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b7085d2944a1b68e3594a0b7eeeebe2f1ff3af90\\classes.dex
+base.1=I\:\\studio workspace\\social_sdk_example_as\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b7085d2944a1b68e3594a0b7eeeebe2f1ff3af90
+file.0=I\:\\studio workspace\\social_sdk_example_as\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7fe2089ed5c8efab94a9d41c32e275d642a04f6a\\classes.dex

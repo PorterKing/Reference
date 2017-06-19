@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_instagram.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a558b769e115b1eed731ec226eaf0caa5d28927">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_instagram_9c478abf7d875bde810093c778b1dea4d8a3cdf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_QQ_Full.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bb827a1ae5b218735a282faa0b27457ad3afcc65">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQ_Full_91a7f382c266354193d24c7f5ff2129db580f236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_gplus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="289342984959eb6756028e5ea183173a32509708">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_gplus_8171c24b9442a1fdd6a7b8e411b56d2063ee36a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="73a390a3ada848e046c3af4aca8d6d637c6e6855">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7fe2089ed5c8efab94a9d41c32e275d642a04f6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_kakao.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4bfa90d67b92951d7dba6768399afab5f78f7350">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_kakao_ac487ebc81d902975d8296c27c61e9ed47195b0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\open_sdk_r5781.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cbac7d081542657d885efd7a529a9267d22ec080">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5781_38d89c18eb8bd2011ceab4fbcee667756e95c167\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_douban.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f0d1c46bf8d0b5b6fdd3ba702ca3baef530a1616">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_douban_5423fe05935c45ca791d663ba6091080d168c3f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\umeng_social_net.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ae5e7e8f78a0b150398087327eda81f872cdcae2">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_net_d90b15b2b0eddb51283c4bbbc0ab15ed5f0bb35d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_dropbox.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a0a0baee710c616fc6f9b70237fb5e235c75a834">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_dropbox_f24fc8912d4700c0c71243efe7ffdbb019527c1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_renren.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bb048dfd3b0002d99bd321d4988c3667be861e57">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_renren_bd4af367f6ef1128a6c592351a3ae9d4742c1175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\libddshare.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6916ed94c5f9805ce5d9bf19a624e7e20551fbe1">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\libddshare_6bd0bc4c81f0d87ac8ed47fe06a6fe5f7ae30568\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="424c463d2dbb285e4ceda5998c1cd73465b2afe1">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b7085d2944a1b68e3594a0b7eeeebe2f1ff3af90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_yixin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15aee109161593e02757690e35608953e849bd8f">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_yixin_2_f9f732ca8ae508ee3f4d336ac311aa87fb1bb23a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_laiwang_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dee974eda005e2f0099c9e81b514e5ea1a543b10">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_laiwang_2_eb4914fed1c8991df012c170a4f8dbe4f7743b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c4c0b8d237757dce06738a695d8b5c09d0ea2574">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_b5fff5c1611da91062609b180aa539400e598742\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_tumblr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f03127a0673409caf90b154640cd3fb2bf52e85f">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_tumblr_024458b5b388d03021f5b54e5c32980f0d22f6a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_WeiXin_Full.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="36cba96ca4dfa61885b4c89ef4cccff56241dfc7">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_Full_710d54fc73bcb07a99380207e51db15742b0001e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_vkontakte.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="49ed83857d8bc9c999137361605f3a3d7693a28b">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_vkontakte_5094cac10b04ce349d16c3a667973b68e544d29a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_ynote.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e7e57f87eb6b2950040fdca4227e1c275e16799">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_ynote_320641e273013b6b475a087a6fd5f6d17ec23f7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_linkedin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51c50a23bf448d5856a56bd777d9b1ccd2dee6a5">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_linkedin_6a4f29ccef7805bbd8034ab17c9b03929ffec712\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_pinterest.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="80be1ba00ca7e54505dafb45884cc6872bf743bc">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_pinterest_c9bb278d5c23f5500781b9ec65f049c4055ac6d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\wechat-sdk-android-with-mta-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="379056fcb09a02bd0db722be359695ad88beb04d">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\wechat-sdk-android-with-mta-1.1.6_c49ae7f630f5d52ae374d888b7ade731dc74f107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\libapshare.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="18847ccd171b966c0e05319a709420e87f8fd5c3">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\libapshare_db201eede7aab47a41760361d17a8bbb1ba9250b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_email.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2b9b4fec9b4bd62b798fc43fb5a55a59e357abe">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_email_11329abf5f09dc45d086c4b6f57a2854501d7911\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_Sina_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2733f75e9b808bfbf54db957b375f21d9eeb4c4d">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Sina_Simplify_c75d7e1eac28f1408009bbe765d4a927445d2b3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_QQ_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6613d9480532b6b4d91aafd192350e0b9fcee502">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQ_Simplify_32e467bc8b41b545f0fc62e3e8dac547aba60c33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_evernote.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="23780cf60b9d934cfb665f8909ab96c86c523bea">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_evernote_30c9785eca76d9280e5c0fad064e2c0b0e38c105\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_pocket.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5963d473dbf4dd3e0526ecf146ca0fb59e729db6">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_pocket_bbfa9b5e436053aef0fd96ac4c7716b21c71961d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_foursquare.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa49d0ae7917029dcda9698166e96fab459c22f4">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_foursquare_6c72e2cee907169c5c3b9b7dbc6ec0558d97dea1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_laiwang_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_laiwang_1_5d49b7c64ccad7f50f4777e936466d4ed21adcd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\umeng_social_shareboard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15bf2ed2c56319fc346f8bd98fbfbeb49e140bf5">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_shareboard_1c176e130083a10fc14065f66cbe418fa0d23793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_Ding.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="661e015392a2bddbced6c44bfca90bf8fe261707">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Ding_a6216f4d75e779d7095ef29f3574856d068c35c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\umeng_social_shareview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="073317d66b5c48377b80a0d927bbbf2269a40478">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_shareview_23cef1f825d1009ffc7d6f3000c1700f35edfca5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_line.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d3df2dd1d91afacca3bdcb0d38055e382f059ff8">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_line_607b502077437a8226409a20af6693496b977f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_sms.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="def504577952a7bd701e43ddf4cb6a448c73677e">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_sms_acf1fa0939a29b872291a5070d216880cbd23131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_yixin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fa68a3bb5ae6231cd4ccaf355d80c6f3725d0ca">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_yixin_1_c634934af9b5aea61021e5f20fc5ab901ea2e610\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\umeng_social_tool.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37e39d974bc2e829a47881f4cf2869aaa4a7a289">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_tool_193318e7df21aed5dd8b7df382f0a8521289b621\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_alipay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67fecb8263fca0d7ff9f6d8eabc173701c796a94">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_alipay_154eb4ec57d5f48386b9150d73fcdc6ee02b093c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\umeng_shareboard_widget.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fc25e9f8df09a557374f12f1f2c4b62938af7372">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_shareboard_widget_8d96fc21e4563c841ed268049aca987979936027\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_facebook.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="23d7e8a2214d45fe67891ea66c0d937b6fbc9f62">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_facebook_4be92cd46d91832bc380036561ee2dd51b7c57f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\json_simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\json_simple-1.1_327758c44a46608ed0505768e43f9bb0c83c6fc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_WeChat_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dbad0e3e7ac8062dd9f7ce3e60ab0ddccc44553f">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeChat_Simplify_3ba9b59f2425248f53c84f4a2c08846e30aa85df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_tencentWB.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bedce7623d355e1402ae697ea577994bf0a48678">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_tencentWB_5b34c7e396349fb6edc6fc792413c08d9af23502\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_whatsapp.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e0bc4745932aadce773b4c524461f2b9f4d94d6">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_whatsapp_c798af31620b3ceda5c8b0f78a341dda06a26ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9b6a9a9078af571732159b904ad423b03b7cc786">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_db5537e46e9a13aec2df52a376bc1dac72acad9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_twitter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4782b837220e85c20d1ca29286f85be35e4f0b8f">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_twitter_0bd2963d7679d0aff686bbc4fc780778ae90e151\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\SocialSDK_flickr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2a6a41a45f72748d5db0b943ad6e0c6f494cb898">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_flickr_71dbd507e5c180f83a2345d1afb08e99737e29fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\studio workspace\social_sdk_example_as\app\libs\umeng_social_api.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="35352ed1ecfb082e85996474c3048332d1374276">
+        <dex dex="I:\studio workspace\social_sdk_example_as\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_api_30200ccc653deb98adb16ee8f3182329f3b9f65f\classes.dex" />
+    </item>
+
+</items>

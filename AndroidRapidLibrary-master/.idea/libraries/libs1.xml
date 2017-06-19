@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android-Rapid-Development-Of-Library/android_library/libs/butterknife-7.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android-Rapid-Development-Of-Library/android_library/libs/umeng-onlineconfig_v1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
